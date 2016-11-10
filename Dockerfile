@@ -1,6 +1,6 @@
 FROM base/archlinux
 MAINTAINER Kibeom Kim <kk1674@nyu.edu>
-.
+
 ENV HOME /root
 WORKDIR /root
 #RUN useradd kkimdev
